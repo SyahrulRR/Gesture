@@ -1,5 +1,6 @@
 package com.uty.gesture090
 
+
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -70,3 +71,5 @@ class MainActivity : AppCompatActivity(), GestureDetector.OnGestureListener,
         return true
     }
 }
+
+//p
